@@ -21,5 +21,6 @@ Python | Pandas | SQL | Power BI | Excel | DAX | Matplotlib
 ## Contact
 Email: werewereside@gmail.com
 LinkedIn: www.linkedin.com/in/the202123
+
 Portfolio: https://data-analyst-portfolio-virid-three.vercel.app
 
