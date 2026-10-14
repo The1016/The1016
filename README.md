@@ -19,7 +19,7 @@ Python | Pandas | SQL | Power BI | Excel | DAX | Matplotlib
 4. Customer Churn & Retention Analysis
 
 ## Contact
-Email: werewereside@gmail.com
+Email: zawwadul@gmail.com
 LinkedIn: www.linkedin.com/in/the202123
 
 Portfolio: https://data-analyst-portfolio-virid-three.vercel.app
